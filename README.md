@@ -1,10 +1,8 @@
 # mvvm_pro
 Full Docunmentation for the code : https://medium.com/@gopikaprabhu020/implementing-mvvm-architecture-in-flutter-building-a-simple-car-control-app-c014a28781ed
 
-![Annotation 2023-09-14 114824](https://github.com/gopikarp/mvvm_SimpleProject/assets/100861026/5b69a99e-b308-4b70-87c0-608e7f06e681)
 
-
-https://github.com/gopikarp/mvvm_SimpleProject/assets/100861026/18add74c-6476-462c-83fe-5e1b9d93cfec
+https://github.com/gopikarp/mvvm_SimpleProject/assets/100861026/73171a95-f1d7-439d-bebd-bfee5b37c66f
 
 
 
